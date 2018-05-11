@@ -1,4 +1,4 @@
-# rumbda [![Build Status](https://travis-ci.org/kleaver/rumbda.svg?branch=master)](https://travis-ci.org/kleaver/rumbda) [![Gem Version](https://badge.fury.io/rb/rumbda.svg)](https://badge.fury.io/rb/rumbda)
+# rumbda [![Build Status](https://travis-ci.org/mmontalvo/rumbda.svg?branch=master)](https://travis-ci.org/mmontalvo/rumbda) [![Gem Version](https://badge.fury.io/rb/rumbda.svg)](https://badge.fury.io/rb/rumbda)
 Run ruby scripts on aws lambda.
 
 ## Installation
