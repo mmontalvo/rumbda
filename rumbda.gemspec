@@ -13,6 +13,7 @@ Gem::Specification.new do |gem|
   gem.files         = Dir['lib/**/*', 'bin/*', 'lambda/*']
   gem.executables   = gem.files.grep(%r{^bin/}).map { |f| File.basename(f) }
 
+  gem.add_dependency 'bundler', '= 1.9.9'
+
   gem.add_runtime_dependency 'thor', '~> 0.19'
-  gem.add_runtime_dependency 'bundler', '= 1.9.9' # bundler version must match the version traveling ruby uses
 end
