@@ -53,3 +53,4 @@ Gemfile.lock
 tmp_rumbda
 index.zip
 .byebug_history
+/nbproject
